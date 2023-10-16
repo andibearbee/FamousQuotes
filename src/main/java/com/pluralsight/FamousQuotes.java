@@ -9,7 +9,7 @@ public class FamousQuotes {
                 "You're gonna rattle the stars, you are!- John Silver in Treasure Planet",
                 "A person's a person, no matter how small.- Dr. Seuss",
                 "Eleanor was right. She never looked nice. She looked like art, art wasn't supposed to look nice; it was supposed to make you feel something.-Rainbow Rowell from Eleanor and Park",
-                "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.-Dr. Seuss",
+                "A wizard is never late, Frodo Baggins. He arrives precisely when he means to.- Gandalf in LOTR:Fellowship",
                 "Every plant is a weed in a place where it isn't welcome. -Andi Burke",
                 "I will always wear the crown that you gave me. We will always stay Lost in Forever, and they'll remember we were legends.-Kelsea Ballerini",
                 "I'm so in love with it all, every moment. You say you're too much for me, you're just enough. I won't regret it all. Life is golden and it's broken, and it's fine. It's all true at the same time.-MALINDA"
